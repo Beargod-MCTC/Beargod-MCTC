@@ -1,9 +1,9 @@
 ## Hi there 👋
 My name is Josie.
 
-I go to MCTC for Web and Mobile App Developement
+I go to MCTC for Cybersecurity and Infrastructure Architecture 
 
-I am currently learning Java, HTML, and COMPTIA A+.
+I am currently taking a COMPTIA A+ Plus course and fast tracking my degree.
 
 Pronouns: She/They
 
